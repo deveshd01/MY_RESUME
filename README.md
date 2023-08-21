@@ -1,6 +1,6 @@
 ALL PROJECTS DRIVE LINK
-https://drive.google.com/drive/folders/1a9aF3o43xEQ6QCNYYWWjerpV0dhZmztH?usp=sharing
+https://drive.google.com/drive/folders/16Dvg8BLhca8XmDbxwreRucwPWGq_jOJR?usp=sharing
 
 
 GOOGLE COLAB NOTEBOOK DRIVE LINK
-https://drive.google.com/drive/folders/1AZnOTPS3uDfRg0IasVGHGWYVV2gciqwS?usp=sharing
+https://drive.google.com/drive/folders/1aqImg4BfAct7FpbpWC28fyCZI9hWdR4P?usp=sharing
